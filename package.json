@@ -1,0 +1,23 @@
+{
+  "name": "useful-reusable-functions",
+  "version": "1.0.0",
+  "description": "Useful handy functions in projects implemented in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirrezabahoush/useful-reusable-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirrezabahoush/useful-reusable-functions/issues"
+  },
+  "homepage": "https://github.com/amirrezabahoush/useful-reusable-functions#readme",
+  "dependencies": {
+    "react": "^18.1.0",
+    "typescript": "^4.6.4"
+  }
+}
